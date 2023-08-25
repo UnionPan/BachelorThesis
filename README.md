@@ -1,3 +1,3 @@
 # BachelorThesis
-The entire summarization system
-inherited from miss zoe
+The text summarization system
+
